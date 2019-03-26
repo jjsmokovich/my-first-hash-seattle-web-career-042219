@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  
+  shipping
 end
 
 def retrieval
